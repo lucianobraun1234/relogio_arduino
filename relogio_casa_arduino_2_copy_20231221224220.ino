@@ -187,7 +187,7 @@ void flip() {
   }
   if(hora >23){
     hora=0;
-    dia=dia+1;
+    diadata=diadata+1;
     
   }
   if(mes1==1 and dia>31){
